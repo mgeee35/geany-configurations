@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=In9tvv_ge9I
 
 ### Solution for Geany Python indentation problem
 
-https://github.com/geany/geany/issues/2098
+https://github.com/geany/geany/issues/2098#issuecomment-469071387
 
 ### How make Python3 the default Python in Geany
 
