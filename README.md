@@ -1,4 +1,4 @@
-# geany-dark-theme
+#  geany-configurations
 
 Geany installation
 
