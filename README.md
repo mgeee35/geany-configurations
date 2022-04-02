@@ -26,7 +26,7 @@ https://www.geany.org/manual/current/index.html#configuration-files
 
 ### Changing Geany editor to dark theme entirely
 
-https://askubuntu.com/questions/983110/change-geany-theme-entirely
+https://askubuntu.com/questions/983110/change-geany-theme-entirely#comment1981219_1033173
 
 https://linuxx.info/change-the-theme-for-gtk-applications/
 
