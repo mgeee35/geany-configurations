@@ -15,3 +15,7 @@ https://www.geany.org/manual/current/index.html#configuration-files
 Solution for Geany Python indentation problem
 
 https://github.com/geany/geany/issues/2098
+
+How make Python3 the default Python in Geany
+
+https://stackoverflow.com/questions/29105941/how-do-i-make-python3-the-default-python-in-geany
