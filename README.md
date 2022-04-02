@@ -4,6 +4,12 @@
 
 https://www.geany.org/manual/current/index.html#installation
 
+https://www.geany.org/download/third-party/
+
+https://www.geany.org/download/git/
+
+https://www.geany.org/download/themes/
+
 ### Geany configuration files
 
 https://www.geany.org/manual/current/index.html#configuration-files
