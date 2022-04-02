@@ -8,9 +8,13 @@ https://www.geany.org/download/third-party/
 
 https://www.geany.org/download/git/
 
+### Geany themes installation
+
 https://www.geany.org/download/themes/
 
-### Geany plugin installation
+https://github.com/geany/geany-themes
+
+### Geany plugins installation
 
 https://plugins.geany.org/downloads.html
 
