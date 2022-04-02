@@ -1,6 +1,6 @@
-#  geany-configurations
+#  Geany Installation & Configurations
 
-Geany installation
+## Geany installation
 
 https://www.geany.org/manual/current/index.html#installation
 
