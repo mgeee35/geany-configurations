@@ -10,6 +10,12 @@ https://www.geany.org/download/git/
 
 https://www.geany.org/download/themes/
 
+### Geany plugin installation
+
+https://plugins.geany.org/downloads.html
+
+https://plugins.geany.org/install.html
+
 ### Geany configuration files
 
 https://www.geany.org/manual/current/index.html#configuration-files
