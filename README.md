@@ -32,6 +32,10 @@
 
 - https://www.youtube.com/watch?v=In9tvv_ge9I
 
+- https://lists.geany.org/pipermail/users/2021-April/011520.html
+
+- https://github.com/SimBotBiz/inkscape-dark-theme
+
 ### Solution for Geany Python indentation problem
 
 - https://github.com/geany/geany/issues/2098#issuecomment-469071387
