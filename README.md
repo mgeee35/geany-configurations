@@ -24,6 +24,8 @@
 
 - https://www.geany.org/manual/current/index.html#configuration-files
 
+- https://github.com/geany/geany/issues/2466#issuecomment-610710741
+
 ### Changing Geany editor to dark theme entirely
 
 - https://askubuntu.com/questions/983110/change-geany-theme-entirely#comment1981219_1033173
